@@ -1,2 +1,2 @@
-# persona
-A place to nicely view and curate collections of media of your favorite characters.
+# That's a Vibe!
+A place to easily curate and share collections of media that capture a specific feeling.
